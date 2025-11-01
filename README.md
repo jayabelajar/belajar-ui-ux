@@ -76,6 +76,5 @@ Silakan gunakan dan modifikasi dengan mencantumkan kredit yang sesuai.
 © 2025 • **Belajar UI/UX Design**  
 Dibuat dengan ☕ oleh **Mulyo Anjang Jaya Kusuma**  
 Versi: `v1.1 Final Edition`  
-[MIT License](./LICENSE)
 
 </div>
